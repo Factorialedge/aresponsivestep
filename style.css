@@ -240,11 +240,14 @@ li{
 
 
 @media screen and (max-width : 1024px){
-    a{
-        font-size: 23px;
+     a{
+        font-size: 17px;
     }
     .content{
-        font-size: 23px;
+
+        display: flex;
+        justify-content: flex-start;
+        font-size: 17px;
 
     }
     ul{
